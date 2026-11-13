@@ -1,0 +1,9 @@
+/config.inc.php
+/cypress.travis.env.json
+
+/cache/*
+!/cache/.htaccess
+
+/files/
+
+*.log
